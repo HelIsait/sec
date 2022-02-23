@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://gadgetpage.ru/uploads/posts/2021-03/1615716311_2.jpg");
+}
+
+.hors{
+    margin-left: 850px;
+    margin-top: 350px;
+    color: darkmagenta;
+    display: flex;
+}
+
+.text{
+    border: 2px solid #9003fc;
+    margin-right: 100px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+    width: 200px;
+    height:170px;
+    margin-left: 10px;
+}
+
+.text:hover{
+    background-color: red;
+    color: black;
+}
+
+#gg:hover {
+    opacity: 0.8;
+}
+
+.osn{
+    text-align: center;
+    background-color: wheat;
+    border-radius: 50px;
+    width: 600px;
+    margin-left: 650px;
+}
+
+.osn p {
+    font-size: 24px;
+}
+
+.hide{
+    margin-top: 280px;
+    color: yellow;
+}
